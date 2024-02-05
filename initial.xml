@@ -1,0 +1,2883 @@
+<?xml version="1.0" ?>
+<savegame saveVersion="4" comment="toto" gameVersion="2.6-dev" realDate="2015/06/16 23:16:33" gameDate="2084 Mar 21">
+	<campaign id="veryeasy" credits="1114000" paid="0" nextUniqueCharacterNumber="84">
+		<date day="760739" sec="21600"/>
+		<map geoRadarOverlay="0" geoNationOverlay="0" geoXviOverlay="0" radarOverlayWasSet="false" XVIShowmap="false"/>
+		<mapDefStat/>
+	</campaign>
+	<research>
+		<tech id="rs_concept_research" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_concept_production" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_concept_interception" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_concept_disassembly" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_concept_nation_happiness" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_concept_time_units" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_concept_reaction_fire" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_concept_weight" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_concept_wounds" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_concept_equipment" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_laser" time="3000.000000" statusResearch="none" statusResearchable="true" mailSent="1">
+			<preDate day="760739" sec="21600"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_baselaser" time="1000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_baselaser_ammo" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_antimatter" time="3000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_item_antimatter" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_alien_live" time="1000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_alien_breathing" time="750.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_alien_mind" time="1200.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_alien_oddbehaviour" time="1400.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_alien_communication" time="1600.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_alien_base" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_universal_serum" time="1800.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_alien_origins" time="1500.000000" statusResearch="none" statusResearchable="true" mailSent="1">
+			<preDate day="760739" sec="21600"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_alien_ufo_theory" time="4000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_pistol" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_weapon_pistol_ammo" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_weapon_pistol2" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_weapon_pistol2_ammo" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_weapon_vhs" time="-1.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_assault" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_weapon_assault_ammo" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_weapon_machinegun" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_weapon_machinegun_ammo" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_weapon_rpg" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_weapon_rpg_ammo" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_weapon_rpg_incendiary_ammo" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_weapon_rpg_hybrid_ammo" time="3000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_xaw95" time="-1.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_xaw95_ammo" time="-1.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_bombkit1" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_weapon_chaingun" time="-1.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_chaingun_ammo" time="-1.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_shotgun" time="-1.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_shotgun_ammo" time="-1.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_bolterrifle" time="6000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_bolterrifle_ammo" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_bolterrifle_am_ammo" time="5000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_combatknife" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_weapon_monoknife" time="750.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_flamer" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_weapon_flamer_ammo" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_weapon_flashbang" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_weapon_fraggren" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_weapon_incgren" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_weapon_grenl" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_weapon_grenl_ammo" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_weapon_grenl_fle_ammo" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_weapon_grenl_incendiary_ammo" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_weapon_grenl_plasma_ammo" time="2000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_irgoggles" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_weapon_kerrblade" time="1000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_laserpistol" time="1000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_laserrifle" time="2000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_heavylaser" time="2000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_electrolaser" time="1000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_laserammo" time="750.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_laserammo_stun" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_medikit" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_weapon_plasatomizer" time="1500.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_plasatomizer_ammo" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_plasblaster" time="3000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_plasblaster_ammo" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_plasblade" time="4000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_plasmagren" time="1000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_plasrifle" time="3000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_plasrifle_ammo" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_encased_plasma" time="6000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_encased_plasma_assault_ammo" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_encased_plasma_mg_ammo" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_encased_plasma_sniper_ammo" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_needlergun" time="10000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_needlerheavy" time="5000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_needlergun_ammo" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_coilgun" time="4000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_coilgun_ammo" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_shotgun2" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_weapon_shotgun2_slug_ammo" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_weapon_shotgun_micro" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_weapon_shotgun_micro_ammo" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_weapon_smg" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_weapon_smg_ammo" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_weapon_smokegren" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_weapon_sniper" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_weapon_sniper_ammo" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_weapon_stungren" time="750.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_stungren_alien" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_stunrod" time="1500.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_pbeampistol" time="5000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_pbeampistol_ammo" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_pbeamcannon" time="6000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_pbeamcannon_ammo" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_pbeamrifle" time="6000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_pbeamrifle_ammo" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_pbeam_ammo" time="1000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_combat_armour" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_nano_armour" time="6000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_power_armour" time="6000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_alien_body_armour" time="4000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_alien_medium_armour" time="6000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_damage_blast" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="0" sec="0"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_damage_fire" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="0" sec="0"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_damage_laser" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_damage_normal" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="0" sec="0"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_damage_shock" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="0" sec="0"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_damage_plasma" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_damage_stun" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="0" sec="0"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_damage_pbeam" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_skill_accuracy" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="0" sec="0"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_skill_assault" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="0" sec="0"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_skill_close" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="0" sec="0"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_skill_explosive" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="0" sec="0"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_skill_mind" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="0" sec="0"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_skill_power" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="0" sec="0"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_skill_sniper" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="0" sec="0"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_skill_speed" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="0" sec="0"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_building_aliencontainment" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_building_command" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_building_entrance" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_building_missile" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_building_laser" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_building_large_hangar" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_building_hospital" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_building_small_hangar" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_building_lab" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_building_powerplant" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_building_quarters" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_building_radar" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_building_radar_adv" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_building_storage" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_building_workshop" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_building_antimatter" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_installation_radar" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_installation_ufo_yard" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_installation_sam_site" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_installation_orbital_launcher" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_craft_drop_firebird" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_craft_drop_herakles" time="14000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_craft_drop_raptor" time="14000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_craft_inter_stiletto" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_craft_inter_saracen" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_craft_inter_dragon" time="14000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_craft_inter_starchaser" time="14000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_craft_inter_stingray" time="14000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_craft_ufo_scout" time="3000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_craft_ufo_fighter" time="3000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_craft_ufo_supply" time="8000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_craft_ufo_carrier" time="30000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_craft_ufo_bomber" time="14000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_craft_ufo_corrupter" time="8000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_craft_ufo_gunboat" time="14000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_craft_ufo_ripper" time="14000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_craft_ufo_harvester" time="4000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_craft_ufo_mothership" time="50000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_alien_bloodspider_autopsy" time="1500.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_bloodspider" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_alien_bloodspider_adv_autopsy" time="1500.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_bloodspider_adv" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_alien_ortnok_autopsy" time="1500.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_alien_taman_autopsy" time="1500.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_alien_shevaar_autopsy" time="1500.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_alien_hovernet_autopsy" time="1500.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_hovernet_plasma" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_alien_hovernet_adv_autopsy" time="1500.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_weapon_hovernet_adv_plasma" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_ugv_phoenix" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_ugv_ares_w" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_ugv_chaingun" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_ugv_chaingun_belt" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_ugv_weapon_autocannon" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_base_AA51_launcher" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_base_ammo_AA51" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_craft_el_raven" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_craft_shield_polymer" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_craft_shield_plating" time="3000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_craft_shield_polymer_alien" time="8000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_craft_alien_astrogation" time="750.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_craft_alien_propulsion" time="3000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_craft_alien_propulsion_adv" time="10000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_craft_alien_detection" time="2000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_craft_weapon_alc" time="1000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_craft_ammo_alc" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_craft_weapon_shiva" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_craft_ammo_shiva_1" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_craft_ammo_shiva_2" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_craft_weapon_sparrowhawk" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_craft_ammo_sparrowhawk" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_craft_weapon_tr20" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_craft_ammo_tr20" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_craft_weapon_particle" time="4000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_craft_ammo_particle" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_craft_weapon_alien_launcher" time="12000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_craft_ammo_am_missile" time="5000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_craft_ammo_hybrid_missile" time="5000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_craft_el_targeting" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_craft_el_fuelpod" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="rs_craft_el_alien_ew" time="3000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_alien_materials" time="3000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_item_alienmaterials" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="news_init_political_situation" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="news_after_the_war" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="news_phalanx_mumbai_aftermath" statusResearch="finished" statusResearchable="true" mailSent="2">
+			<preDate day="760739" sec="21600"/>
+			<date day="760739" sec="21600"/>
+		</tech>
+		<tech id="news_new_twist" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_enemy_on_earth" time="2000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_xvi_census" time="6000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_alien_strategy" time="1000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_orbital_ufo_activity" time="20000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_alien_psi_device" time="2000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_human_vaccine" time="2000.000000" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_implant_amphetamine" time="1.000000" statusResearch="none" statusResearchable="true" mailSent="1">
+			<preDate day="760739" sec="21600"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_implant_muscular" time="1.000000" statusResearch="none" statusResearchable="true" mailSent="1">
+			<preDate day="760739" sec="21600"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_contained_organic_alien" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_fighter_OR_harvester" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_any_needler" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_taman_extra" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_shevaar_extra" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_ortnok_extra" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_alien_xvi_event" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_enemy_on_earth_event" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_autopsy_O_T" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_autopsy_O_S" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_autopsy_T_S" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+		<tech id="rs_any_2_autopsies" statusResearch="none" statusResearchable="false" mailSent="0">
+			<preDate day="0" sec="0"/>
+			<date day="0" sec="0"/>
+		</tech>
+	</research>
+	<bases>
+		<base idx="0" name="Home" baseStatus="working" alienInterest="1.000000" radarRange="24" trackingRange="34">
+			<pos x="-19.419102" y="17.328453" z="0.000000"/>
+			<buildingSpace>
+				<building x="0" y="0"/>
+				<building x="0" y="1" buildingIDX="3"/>
+				<building x="0" y="2" buildingIDX="3"/>
+				<building x="0" y="3" buildingIDX="7"/>
+				<building x="0" y="4" buildingIDX="7"/>
+				<building x="1" y="0"/>
+				<building x="1" y="1"/>
+				<building x="1" y="2"/>
+				<building x="1" y="3" buildingIDX="8"/>
+				<building x="1" y="4" buildingIDX="10"/>
+				<building x="2" y="0"/>
+				<building x="2" y="1"/>
+				<building x="2" y="2"/>
+				<building x="2" y="3"/>
+				<building x="2" y="4" buildingIDX="0"/>
+				<building x="3" y="0"/>
+				<building x="3" y="1" buildingIDX="11"/>
+				<building x="3" y="2" buildingIDX="12"/>
+				<building x="3" y="3" buildingIDX="2"/>
+				<building x="3" y="4" buildingIDX="4"/>
+				<building x="4" y="0" buildingIDX="9"/>
+				<building x="4" y="1" buildingIDX="9"/>
+				<building x="4" y="2" buildingIDX="6"/>
+				<building x="4" y="3" buildingIDX="1"/>
+				<building x="4" y="4" buildingIDX="5"/>
+			</buildingSpace>
+			<buildings>
+				<building buildingType="building_entrance" buildingPlace="0" buildingStatus="working" buildingBuildTime="1">
+					<buildingTimeStart day="0" sec="0"/>
+					<pos x="4.000000" y="2.000000"/>
+				</building>
+				<building buildingType="building_quarters" buildingPlace="1" buildingStatus="working" buildingBuildTime="5">
+					<buildingTimeStart day="0" sec="0"/>
+					<pos x="3.000000" y="4.000000"/>
+				</building>
+				<building buildingType="building_quarters" buildingPlace="2" buildingStatus="working" buildingBuildTime="5">
+					<buildingTimeStart day="0" sec="0"/>
+					<pos x="3.000000" y="3.000000"/>
+				</building>
+				<building buildingType="building_aliencontainment" buildingPlace="3" buildingStatus="working" buildingBuildTime="10">
+					<buildingTimeStart day="0" sec="0"/>
+					<pos x="1.000000" y="0.000000"/>
+				</building>
+				<building buildingType="building_storage" buildingPlace="4" buildingStatus="working" buildingBuildTime="4">
+					<buildingTimeStart day="0" sec="0"/>
+					<pos x="4.000000" y="3.000000"/>
+				</building>
+				<building buildingType="building_powerplant" buildingPlace="5" buildingStatus="working" buildingBuildTime="12">
+					<buildingTimeStart day="0" sec="0"/>
+					<pos x="4.000000" y="4.000000"/>
+				</building>
+				<building buildingType="building_command" buildingPlace="6" buildingStatus="working" buildingBuildTime="12">
+					<buildingTimeStart day="0" sec="0"/>
+					<pos x="2.000000" y="4.000000"/>
+				</building>
+				<building buildingType="building_hangar" buildingPlace="7" buildingStatus="working" buildingBuildTime="8">
+					<buildingTimeStart day="0" sec="0"/>
+					<pos x="3.000000" y="0.000000"/>
+				</building>
+				<building buildingType="building_intercept" buildingPlace="8" buildingStatus="working" buildingBuildTime="5">
+					<buildingTimeStart day="0" sec="0"/>
+					<pos x="3.000000" y="1.000000"/>
+				</building>
+				<building buildingType="building_workshop" buildingPlace="9" buildingStatus="working" buildingBuildTime="12">
+					<buildingTimeStart day="0" sec="0"/>
+					<pos x="0.000000" y="4.000000"/>
+				</building>
+				<building buildingType="building_radar" buildingPlace="10" buildingStatus="working" buildingBuildTime="7" buildingLevel="1.000000">
+					<buildingTimeStart day="0" sec="0"/>
+					<pos x="4.000000" y="1.000000"/>
+				</building>
+				<building buildingType="building_lab" buildingPlace="11" buildingStatus="working" buildingBuildTime="12">
+					<buildingTimeStart day="0" sec="0"/>
+					<pos x="1.000000" y="3.000000"/>
+				</building>
+				<building buildingType="building_hospital" buildingPlace="12" buildingStatus="working" buildingBuildTime="8">
+					<buildingTimeStart day="0" sec="0"/>
+					<pos x="2.000000" y="3.000000"/>
+				</building>
+			</buildings>
+			<batteries/>
+			<lasers/>
+			<storage>
+				<item id="craft_weapon_shiva" num="1"/>
+				<item id="craft_ammo_shiva_API" num="29"/>
+				<item id="craft_ammo_shiva_HEI" num="30"/>
+				<item id="craft_weapon_sparrowhawk" num="1"/>
+				<item id="craft_ammo_sparrowhawk" num="14"/>
+				<item id="craft_weapon_tr20" num="1"/>
+				<item id="craft_ammo_tr20" num="6"/>
+				<item id="craft_el_fuelpod" num="1"/>
+				<item id="craft_shield_polymer" num="1"/>
+				<item id="armour_light" num="2"/>
+				<item id="medikit" num="8"/>
+				<item id="irgoggles" num="8"/>
+				<item id="fraggrenade" num="14"/>
+				<item id="flashbang" num="5"/>
+				<item id="smokegrenade" num="2"/>
+				<item id="assault" num="4"/>
+				<item id="assault_ammo" num="18"/>
+				<item id="machinegun" num="1"/>
+				<item id="machinegun_ammo" num="12"/>
+				<item id="sniper" num="4"/>
+				<item id="sniper_ammo" num="19"/>
+				<item id="pistol" num="3"/>
+				<item id="pistol_ammo" num="14"/>
+				<item id="pistol2" num="1"/>
+				<item id="pistol2_ammo" num="10"/>
+				<item id="smg" num="3"/>
+				<item id="smg_ammo" num="14"/>
+				<item id="shotgun2" num="1"/>
+				<item id="shotgun2_slug_ammo" num="12"/>
+				<item id="shotgun_micro" num="1"/>
+				<item id="shotgun_micro_ammo" num="12"/>
+				<item id="flamer" num="2"/>
+				<item id="flamer_ammo" num="8"/>
+				<item id="rpg" num="1"/>
+				<item id="rpg_ammo" num="12"/>
+				<item id="grenl" num="2"/>
+				<item id="grenl_ammo" num="13"/>
+				<item id="knife" num="4"/>
+			</storage>
+			<alienContainment/>
+		</base>
+	</bases>
+	<market>
+		<item id="craft_weapon_alc" bid="6300" ask="7000"/>
+		<item id="craft_weapon_shiva" num="100" bid="4500" ask="5000"/>
+		<item id="craft_ammo_shiva_API" num="100" bid="540" ask="600"/>
+		<item id="craft_ammo_shiva_HEI" num="100" bid="540" ask="600"/>
+		<item id="craft_el_raven" num="100" bid="7200" ask="8000"/>
+		<item id="craft_weapon_sparrowhawk" num="100" bid="6300" ask="7000"/>
+		<item id="craft_ammo_sparrowhawk" num="100" bid="900" ask="1000"/>
+		<item id="craft_weapon_tr20" num="100" bid="5400" ask="6000"/>
+		<item id="craft_ammo_tr20" num="100" bid="756" ask="840"/>
+		<item id="craft_weapon_particle_beam" bid="9900" ask="11000"/>
+		<item id="craft_weapon_alien_launcher" bid="10800" ask="12000"/>
+		<item id="craft_ammo_am_missile" bid="2700" ask="3000"/>
+		<item id="craft_ammo_hybrid_missile" bid="2430" ask="2700"/>
+		<item id="craft_el_targeting" num="100" bid="9000" ask="10000"/>
+		<item id="craft_el_fuelpod" num="100" bid="2700" ask="3000"/>
+		<item id="craft_shield_polymer" num="100" bid="1080" ask="1200"/>
+		<item id="craft_shield_plating" bid="2700" ask="3000"/>
+		<item id="craft_shield_polymer_alien" bid="2700" ask="3000"/>
+		<item id="craft_el_alien_ew" bid="7200" ask="8000"/>
+		<item id="craft_alien_astrogation" bid="4500" ask="5000"/>
+		<item id="craft_alien_propulsion" bid="5400" ask="6000"/>
+		<item id="craft_alien_propulsion_adv" bid="5400" ask="6000"/>
+		<item id="craft_alien_detection" bid="4500" ask="5000"/>
+		<item id="base_AA51_launcher" num="100" bid="4500" ask="5000"/>
+		<item id="baselaser" bid="9000" ask="10000"/>
+		<item id="armour_light" num="100" bid="1260" ask="1400"/>
+		<item id="armour_medium" bid="6750" ask="7500"/>
+		<item id="armour_power" bid="28800" ask="32000"/>
+		<item id="armour_light_alien" bid="1260" ask="1400"/>
+		<item id="armour_medium_alien" bid="6750" ask="7500"/>
+		<item id="alienmaterials" bid="6" ask="7"/>
+		<item id="medikit" num="100" bid="72" ask="80"/>
+		<item id="irgoggles" num="100" bid="90" ask="100"/>
+		<item id="fraggrenade" num="100" bid="31" ask="35"/>
+		<item id="flashbang" num="100" bid="63" ask="70"/>
+		<item id="smokegrenade" num="100" bid="22" ask="25"/>
+		<item id="stungrenade" bid="171" ask="190"/>
+		<item id="stungrenade_alien" bid="171" ask="190"/>
+		<item id="incgrenade" num="100" bid="135" ask="150"/>
+		<item id="plasmagrenade" bid="855" ask="950"/>
+		<item id="needlergun" bid="4500" ask="5000"/>
+		<item id="needlerheavy" bid="4500" ask="5000"/>
+		<item id="needlergun_ammo" bid="360" ask="400"/>
+		<item id="assault" num="100" bid="900" ask="1000"/>
+		<item id="assault_ammo" num="100" bid="63" ask="70"/>
+		<item id="machinegun" num="100" bid="1080" ask="1200"/>
+		<item id="machinegun_ammo" num="100" bid="58" ask="65"/>
+		<item id="sniper" num="100" bid="1170" ask="1300"/>
+		<item id="sniper_ammo" num="100" bid="76" ask="85"/>
+		<item id="coilgun" bid="2700" ask="3000"/>
+		<item id="coilgun_ammo" bid="76" ask="85"/>
+		<item id="pistol" num="100" bid="810" ask="900"/>
+		<item id="pistol_ammo" num="100" bid="18" ask="20"/>
+		<item id="pistol2" num="100" bid="900" ask="1000"/>
+		<item id="pistol2_ammo" num="100" bid="18" ask="20"/>
+		<item id="smg" num="100" bid="1215" ask="1350"/>
+		<item id="smg_ammo" num="100" bid="36" ask="40"/>
+		<item id="shotgun2" num="100" bid="1350" ask="1500"/>
+		<item id="shotgun2_slug_ammo" num="100" bid="31" ask="35"/>
+		<item id="shotgun_micro" num="100" bid="1215" ask="1350"/>
+		<item id="shotgun_micro_ammo" num="100" bid="31" ask="35"/>
+		<item id="flamer" num="100" bid="1350" ask="1500"/>
+		<item id="flamer_ammo" num="100" bid="153" ask="170"/>
+		<item id="rpg" num="100" bid="3600" ask="4000"/>
+		<item id="rpg_ammo" num="100" bid="387" ask="430"/>
+		<item id="rpg_incendiary_ammo" num="100" bid="567" ask="630"/>
+		<item id="rpg_hybrid_ammo" bid="630" ask="700"/>
+		<item id="grenl" num="100" bid="2250" ask="2500"/>
+		<item id="grenl_ammo" num="100" bid="121" ask="135"/>
+		<item id="grenl_incendiary_ammo" num="100" bid="121" ask="135"/>
+		<item id="grenl_fle_ammo" num="100" bid="121" ask="135"/>
+		<item id="grenl_plasma_ammo" bid="837" ask="930"/>
+		<item id="bolterrifle" bid="1800" ask="2000"/>
+		<item id="bolterrifle_ammo" bid="837" ask="930"/>
+		<item id="bolterrifle_am_ammo" bid="837" ask="930"/>
+		<item id="implant_amphetamine" bid="7200" ask="8000"/>
+		<item id="implant_muscular" bid="7200" ask="8000"/>
+		<item id="laserpistol" bid="1800" ask="2000"/>
+		<item id="laserrifle" bid="2250" ask="2500"/>
+		<item id="heavylaser" bid="3600" ask="4000"/>
+		<item id="laser_ammo" bid="189" ask="210"/>
+		<item id="electrolaser" bid="900" ask="1000"/>
+		<item id="laser_ammo_stun" bid="189" ask="210"/>
+		<item id="knife" num="100" bid="45" ask="50"/>
+		<item id="knifemono" bid="1440" ask="1600"/>
+		<item id="stunrod" bid="720" ask="800"/>
+		<item id="kerrblade" bid="1080" ask="1200"/>
+		<item id="plasblade" bid="2700" ask="3000"/>
+		<item id="shotgun" bid="1350" ask="1500"/>
+		<item id="shotgun_ammo" bid="31" ask="35"/>
+		<item id="xaw95" bid="45000" ask="50000"/>
+		<item id="xaw95_ammo" bid="6750" ask="7500"/>
+		<item id="pbeampistol" bid="2700" ask="3000"/>
+		<item id="pbeampistol_ammo" bid="900" ask="1000"/>
+		<item id="pbeamrifle" bid="3600" ask="4000"/>
+		<item id="pbeamrifle_ammo" bid="1170" ask="1300"/>
+		<item id="pbeamcannon" bid="4500" ask="5000"/>
+		<item id="pbeamcannon_ammo" bid="1260" ask="1400"/>
+		<item id="plaspistol" bid="1800" ask="2000"/>
+		<item id="plaspistol_ammo" bid="720" ask="800"/>
+		<item id="plasrifle" bid="2250" ask="2500"/>
+		<item id="plasrifle_ammo" bid="900" ask="1000"/>
+		<item id="plasblaster" bid="2970" ask="3300"/>
+		<item id="plasblaster_ammo" bid="1350" ask="1500"/>
+		<item id="encased_plasma_assault_ammo" bid="900" ask="1000"/>
+		<item id="encased_plasma_mg_ammo" bid="900" ask="1000"/>
+		<item id="encased_plasma_sniper_ammo" bid="900" ask="1000"/>
+		<item id="ugv_chaingun_belt" num="100" bid="2250" ask="2500"/>
+		<aircraft id="craft_drop_firebird" num="10" bid="18000" ask="20000"/>
+		<aircraft id="craft_drop_herakles" bid="27000" ask="30000"/>
+		<aircraft id="craft_drop_raptor" bid="27000" ask="30000"/>
+		<aircraft id="craft_inter_stiletto" num="10" bid="18000" ask="20000"/>
+		<aircraft id="craft_inter_saracen" num="10" bid="27000" ask="30000"/>
+		<aircraft id="craft_inter_dragon" bid="36000" ask="40000"/>
+		<aircraft id="craft_inter_starchaser" bid="36000" ask="40000"/>
+		<aircraft id="craft_inter_stingray" bid="49500" ask="55000"/>
+	</market>
+	<employees type="soldier">
+		<employee baseHired="0" nation="states">
+			<character name="Catarina Kuznetzov" body="body" path="soldiers/female" head="head05" skin="0" headskin="0" teamdef="phalanx" gender="1" ucn="0" maxHp="99" hp="99" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="4">
+					<skill type="power" initial="37"/>
+					<skill type="speed" initial="18"/>
+					<skill type="accuracy" initial="20"/>
+					<skill type="mind" initial="32"/>
+					<skill type="close" initial="24"/>
+					<skill type="assault" initial="22"/>
+					<skill type="sniper" initial="19"/>
+					<skill type="explosive" initial="24"/>
+					<skill type="hp" initial="99"/>
+				</scores>
+				<inventory>
+					<item container="right" x="0" y="0" weaponid="grenl" amount="1" munitionid="grenl_ammo" ammo="6"/>
+					<item container="headgear" x="0" y="0" weaponid="irgoggles" amount="1"/>
+					<item container="backpack" x="1" y="0" weaponid="grenl_ammo" amount="1"/>
+					<item container="backpack" x="2" y="0" weaponid="grenl_ammo" amount="1"/>
+					<item container="backpack" x="3" y="0" weaponid="pistol_ammo" amount="1"/>
+					<item container="backpack" x="0" y="1" weaponid="medikit" amount="1" munitionid="medikit" ammo="5"/>
+					<item container="holster" x="0" y="0" weaponid="pistol" amount="1" munitionid="pistol_ammo" ammo="12"/>
+				</inventory>
+			</character>
+		</employee>
+		<employee baseHired="0" nation="europe">
+			<character name="Hisa Song" body="body" path="soldiers/female" head="head05" skin="0" headskin="0" teamdef="phalanx" gender="1" ucn="1" maxHp="98" hp="98" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="4">
+					<skill type="power" initial="33"/>
+					<skill type="speed" initial="17"/>
+					<skill type="accuracy" initial="24"/>
+					<skill type="mind" initial="23"/>
+					<skill type="close" initial="17"/>
+					<skill type="assault" initial="16"/>
+					<skill type="sniper" initial="24"/>
+					<skill type="explosive" initial="20"/>
+					<skill type="hp" initial="98"/>
+				</scores>
+				<inventory>
+					<item container="right" x="0" y="0" weaponid="assault" amount="1" munitionid="assault_ammo" ammo="30"/>
+					<item container="headgear" x="0" y="0" weaponid="irgoggles" amount="1"/>
+					<item container="backpack" x="1" y="0" weaponid="assault_ammo" amount="1"/>
+					<item container="backpack" x="2" y="0" weaponid="medikit" amount="1" munitionid="medikit" ammo="5"/>
+				</inventory>
+			</character>
+		</employee>
+		<employee baseHired="0" nation="africa">
+			<character name="Ahalya Iyengar" body="body" path="soldiers/female" head="head07" skin="0" headskin="0" teamdef="phalanx" gender="1" ucn="2" maxHp="105" hp="105" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="4">
+					<skill type="power" initial="35"/>
+					<skill type="speed" initial="21"/>
+					<skill type="accuracy" initial="21"/>
+					<skill type="mind" initial="23"/>
+					<skill type="close" initial="24"/>
+					<skill type="assault" initial="15"/>
+					<skill type="sniper" initial="15"/>
+					<skill type="explosive" initial="17"/>
+					<skill type="hp" initial="105"/>
+				</scores>
+				<inventory>
+					<item container="right" x="0" y="0" weaponid="flamer" amount="1" munitionid="flamer_ammo" ammo="4"/>
+					<item container="headgear" x="0" y="0" weaponid="irgoggles" amount="1"/>
+					<item container="backpack" x="1" y="0" weaponid="flamer_ammo" amount="1"/>
+					<item container="backpack" x="3" y="0" weaponid="smg_ammo" amount="1"/>
+					<item container="backpack" x="0" y="1" weaponid="medikit" amount="1" munitionid="medikit" ammo="5"/>
+					<item container="belt" x="0" y="0" weaponid="knife" amount="1"/>
+					<item container="holster" x="0" y="0" weaponid="smg" amount="1" munitionid="smg_ammo" ammo="30"/>
+				</inventory>
+			</character>
+		</employee>
+		<employee baseHired="0" nation="middle">
+			<character name="Dulce Su" body="body" path="soldiers/female" head="head05" skin="0" headskin="0" teamdef="phalanx" gender="1" ucn="3" maxHp="104" hp="104" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="4">
+					<skill type="power" initial="35"/>
+					<skill type="speed" initial="16"/>
+					<skill type="accuracy" initial="28"/>
+					<skill type="mind" initial="27"/>
+					<skill type="close" initial="15"/>
+					<skill type="assault" initial="15"/>
+					<skill type="sniper" initial="24"/>
+					<skill type="explosive" initial="15"/>
+					<skill type="hp" initial="104"/>
+				</scores>
+				<inventory>
+					<item container="right" x="0" y="0" weaponid="assault" amount="1" munitionid="assault_ammo" ammo="30"/>
+					<item container="headgear" x="0" y="0" weaponid="irgoggles" amount="1"/>
+					<item container="backpack" x="1" y="0" weaponid="assault_ammo" amount="1"/>
+					<item container="backpack" x="2" y="0" weaponid="medikit" amount="1" munitionid="medikit" ammo="5"/>
+					<item container="belt" x="0" y="0" weaponid="fraggrenade" amount="1"/>
+				</inventory>
+			</character>
+		</employee>
+		<employee baseHired="0" nation="africa">
+			<character name="Susana Ab Del Farak" body="body" path="soldiers/female" head="head12" skin="0" headskin="0" teamdef="phalanx" gender="1" ucn="4" maxHp="109" hp="109" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="4">
+					<skill type="power" initial="32"/>
+					<skill type="speed" initial="20"/>
+					<skill type="accuracy" initial="26"/>
+					<skill type="mind" initial="26"/>
+					<skill type="close" initial="24"/>
+					<skill type="assault" initial="22"/>
+					<skill type="sniper" initial="22"/>
+					<skill type="explosive" initial="19"/>
+					<skill type="hp" initial="109"/>
+				</scores>
+				<inventory>
+					<item container="right" x="0" y="0" weaponid="assault" amount="1" munitionid="assault_ammo" ammo="30"/>
+					<item container="headgear" x="0" y="0" weaponid="irgoggles" amount="1"/>
+					<item container="backpack" x="1" y="0" weaponid="assault_ammo" amount="1"/>
+					<item container="backpack" x="2" y="0" weaponid="medikit" amount="1" munitionid="medikit" ammo="5"/>
+					<item container="belt" x="0" y="0" weaponid="knife" amount="1"/>
+				</inventory>
+			</character>
+		</employee>
+		<employee baseHired="0" nation="africa">
+			<character name="Salman Costa" body="body" path="soldiers/male" head="head17" skin="0" headskin="1" teamdef="phalanx" gender="2" ucn="5" maxHp="90" hp="90" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="4">
+					<skill type="power" initial="34"/>
+					<skill type="speed" initial="23"/>
+					<skill type="accuracy" initial="27"/>
+					<skill type="mind" initial="34"/>
+					<skill type="close" initial="17"/>
+					<skill type="assault" initial="20"/>
+					<skill type="sniper" initial="23"/>
+					<skill type="explosive" initial="20"/>
+					<skill type="hp" initial="90"/>
+				</scores>
+				<inventory>
+					<item container="right" x="0" y="0" weaponid="sniper" amount="1" munitionid="sniper_ammo" ammo="8"/>
+					<item container="backpack" x="1" y="0" weaponid="sniper_ammo" amount="1"/>
+					<item container="backpack" x="2" y="0" weaponid="sniper_ammo" amount="1"/>
+					<item container="backpack" x="3" y="1" weaponid="medikit" amount="1" munitionid="medikit" ammo="5"/>
+					<item container="armour" x="0" y="0" weaponid="armour_light" amount="1"/>
+				</inventory>
+			</character>
+		</employee>
+		<employee baseHired="0" nation="oceania">
+			<character name="Yves Schroeder" body="body" path="soldiers/male" head="head05" skin="0" headskin="0" teamdef="phalanx" gender="2" ucn="6" maxHp="93" hp="93" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="4">
+					<skill type="power" initial="34"/>
+					<skill type="speed" initial="15"/>
+					<skill type="accuracy" initial="26"/>
+					<skill type="mind" initial="25"/>
+					<skill type="close" initial="20"/>
+					<skill type="assault" initial="17"/>
+					<skill type="sniper" initial="20"/>
+					<skill type="explosive" initial="15"/>
+					<skill type="hp" initial="93"/>
+				</scores>
+				<inventory>
+					<item container="right" x="0" y="0" weaponid="sniper" amount="1" munitionid="sniper_ammo" ammo="8"/>
+					<item container="headgear" x="0" y="0" weaponid="irgoggles" amount="1"/>
+					<item container="backpack" x="1" y="0" weaponid="sniper_ammo" amount="1"/>
+					<item container="backpack" x="2" y="0" weaponid="sniper_ammo" amount="1"/>
+					<item container="backpack" x="3" y="0" weaponid="smg_ammo" amount="1"/>
+					<item container="belt" x="0" y="0" weaponid="fraggrenade" amount="1"/>
+					<item container="holster" x="0" y="0" weaponid="smg" amount="1" munitionid="smg_ammo" ammo="30"/>
+				</inventory>
+			</character>
+		</employee>
+		<employee baseHired="0" nation="asia">
+			<character name="Dobi Cardoso" body="body" path="soldiers/male" head="head14" skin="0" headskin="1" teamdef="phalanx" gender="2" ucn="7" maxHp="98" hp="98" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="4">
+					<skill type="power" initial="33"/>
+					<skill type="speed" initial="17"/>
+					<skill type="accuracy" initial="24"/>
+					<skill type="mind" initial="27"/>
+					<skill type="close" initial="20"/>
+					<skill type="assault" initial="17"/>
+					<skill type="sniper" initial="19"/>
+					<skill type="explosive" initial="20"/>
+					<skill type="hp" initial="98"/>
+				</scores>
+				<inventory>
+					<item container="right" x="0" y="0" weaponid="sniper" amount="1" munitionid="sniper_ammo" ammo="8"/>
+					<item container="headgear" x="0" y="0" weaponid="irgoggles" amount="1"/>
+					<item container="backpack" x="1" y="0" weaponid="sniper_ammo" amount="1"/>
+					<item container="backpack" x="2" y="0" weaponid="sniper_ammo" amount="1"/>
+					<item container="backpack" x="3" y="0" weaponid="pistol_ammo" amount="1"/>
+					<item container="holster" x="0" y="0" weaponid="pistol" amount="1" munitionid="pistol_ammo" ammo="12"/>
+					<item container="armour" x="0" y="0" weaponid="armour_light" amount="1"/>
+				</inventory>
+			</character>
+		</employee>
+		<employee nation="europe">
+			<character name="Nuno Baldwin" body="body" path="soldiers/male" head="head04" skin="0" headskin="0" teamdef="phalanx" gender="2" ucn="8" maxHp="96" hp="96" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="4">
+					<skill type="power" initial="31"/>
+					<skill type="speed" initial="19"/>
+					<skill type="accuracy" initial="22"/>
+					<skill type="mind" initial="26"/>
+					<skill type="close" initial="15"/>
+					<skill type="assault" initial="21"/>
+					<skill type="sniper" initial="18"/>
+					<skill type="explosive" initial="20"/>
+					<skill type="hp" initial="96"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="africa">
+			<character name="Sam van Aars" body="body" path="soldiers/male" head="head12" skin="0" headskin="1" teamdef="phalanx" gender="2" ucn="9" maxHp="98" hp="98" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="4">
+					<skill type="power" initial="37"/>
+					<skill type="speed" initial="17"/>
+					<skill type="accuracy" initial="20"/>
+					<skill type="mind" initial="20"/>
+					<skill type="close" initial="19"/>
+					<skill type="assault" initial="21"/>
+					<skill type="sniper" initial="17"/>
+					<skill type="explosive" initial="21"/>
+					<skill type="hp" initial="98"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="asia">
+			<character name="Manute Fuentes" body="body" path="soldiers/male" head="head14" skin="0" headskin="1" teamdef="phalanx" gender="2" ucn="10" maxHp="92" hp="92" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="4">
+					<skill type="power" initial="36"/>
+					<skill type="speed" initial="19"/>
+					<skill type="accuracy" initial="24"/>
+					<skill type="mind" initial="30"/>
+					<skill type="close" initial="22"/>
+					<skill type="assault" initial="15"/>
+					<skill type="sniper" initial="19"/>
+					<skill type="explosive" initial="21"/>
+					<skill type="hp" initial="92"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="africa">
+			<character name="Ludovic Bhat" body="body" path="soldiers/male" head="head01" skin="0" headskin="0" teamdef="phalanx" gender="2" ucn="11" maxHp="101" hp="101" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="4">
+					<skill type="power" initial="37"/>
+					<skill type="speed" initial="23"/>
+					<skill type="accuracy" initial="21"/>
+					<skill type="mind" initial="27"/>
+					<skill type="close" initial="24"/>
+					<skill type="assault" initial="21"/>
+					<skill type="sniper" initial="19"/>
+					<skill type="explosive" initial="18"/>
+					<skill type="hp" initial="101"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="states">
+			<character name="Claudio D'Aubigne" body="body" path="soldiers/male" head="head11" skin="0" headskin="0" teamdef="phalanx" gender="2" ucn="12" maxHp="91" hp="91" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="4">
+					<skill type="power" initial="39"/>
+					<skill type="speed" initial="23"/>
+					<skill type="accuracy" initial="27"/>
+					<skill type="mind" initial="30"/>
+					<skill type="close" initial="20"/>
+					<skill type="assault" initial="22"/>
+					<skill type="sniper" initial="17"/>
+					<skill type="explosive" initial="15"/>
+					<skill type="hp" initial="91"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="middle">
+			<character name="Eric Jefferson" body="body" path="soldiers/male" head="head03" skin="0" headskin="0" teamdef="phalanx" gender="2" ucn="13" maxHp="90" hp="90" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="4">
+					<skill type="power" initial="35"/>
+					<skill type="speed" initial="23"/>
+					<skill type="accuracy" initial="21"/>
+					<skill type="mind" initial="33"/>
+					<skill type="close" initial="22"/>
+					<skill type="assault" initial="21"/>
+					<skill type="sniper" initial="15"/>
+					<skill type="explosive" initial="15"/>
+					<skill type="hp" initial="90"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="latin">
+			<character name="Jacob de Calderac" body="body" path="soldiers/male" head="head10" skin="0" headskin="0" teamdef="phalanx" gender="2" ucn="14" maxHp="92" hp="92" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="4">
+					<skill type="power" initial="38"/>
+					<skill type="speed" initial="24"/>
+					<skill type="accuracy" initial="27"/>
+					<skill type="mind" initial="23"/>
+					<skill type="close" initial="22"/>
+					<skill type="assault" initial="18"/>
+					<skill type="sniper" initial="21"/>
+					<skill type="explosive" initial="19"/>
+					<skill type="hp" initial="92"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="middle">
+			<character name="Flavio Pizarro" body="body" path="soldiers/male" head="head20" skin="0" headskin="0" teamdef="phalanx" gender="2" ucn="15" maxHp="105" hp="105" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="4">
+					<skill type="power" initial="38"/>
+					<skill type="speed" initial="20"/>
+					<skill type="accuracy" initial="27"/>
+					<skill type="mind" initial="21"/>
+					<skill type="close" initial="23"/>
+					<skill type="assault" initial="17"/>
+					<skill type="sniper" initial="24"/>
+					<skill type="explosive" initial="19"/>
+					<skill type="hp" initial="105"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="asia">
+			<character name="Waa'il Zamora" body="body" path="soldiers/male" head="head07" skin="0" headskin="0" teamdef="phalanx" gender="2" ucn="16" maxHp="109" hp="109" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="4">
+					<skill type="power" initial="32"/>
+					<skill type="speed" initial="15"/>
+					<skill type="accuracy" initial="28"/>
+					<skill type="mind" initial="26"/>
+					<skill type="close" initial="21"/>
+					<skill type="assault" initial="19"/>
+					<skill type="sniper" initial="19"/>
+					<skill type="explosive" initial="24"/>
+					<skill type="hp" initial="109"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="asia">
+			<character name="Daniel Lu" body="body" path="soldiers/male" head="head01" skin="0" headskin="2" teamdef="phalanx" gender="2" ucn="17" maxHp="109" hp="109" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="4">
+					<skill type="power" initial="34"/>
+					<skill type="speed" initial="19"/>
+					<skill type="accuracy" initial="22"/>
+					<skill type="mind" initial="24"/>
+					<skill type="close" initial="19"/>
+					<skill type="assault" initial="16"/>
+					<skill type="sniper" initial="17"/>
+					<skill type="explosive" initial="15"/>
+					<skill type="hp" initial="109"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="middle">
+			<character name="Habib Ramirez" body="body" path="soldiers/male" head="head09" skin="0" headskin="0" teamdef="phalanx" gender="2" ucn="18" maxHp="105" hp="105" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="4">
+					<skill type="power" initial="31"/>
+					<skill type="speed" initial="16"/>
+					<skill type="accuracy" initial="29"/>
+					<skill type="mind" initial="23"/>
+					<skill type="close" initial="22"/>
+					<skill type="assault" initial="23"/>
+					<skill type="sniper" initial="15"/>
+					<skill type="explosive" initial="16"/>
+					<skill type="hp" initial="105"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="oceania">
+			<character name="Jason Timofeev" body="body" path="soldiers/male" head="head06" skin="0" headskin="1" teamdef="phalanx" gender="2" ucn="19" maxHp="92" hp="92" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="4">
+					<skill type="power" initial="33"/>
+					<skill type="speed" initial="22"/>
+					<skill type="accuracy" initial="29"/>
+					<skill type="mind" initial="23"/>
+					<skill type="close" initial="16"/>
+					<skill type="assault" initial="17"/>
+					<skill type="sniper" initial="18"/>
+					<skill type="explosive" initial="17"/>
+					<skill type="hp" initial="92"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="asia">
+			<character name="Hao Bakken" body="body" path="soldiers/male" head="head01" skin="0" headskin="2" teamdef="phalanx" gender="2" ucn="20" maxHp="96" hp="96" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="4">
+					<skill type="power" initial="34"/>
+					<skill type="speed" initial="17"/>
+					<skill type="accuracy" initial="25"/>
+					<skill type="mind" initial="26"/>
+					<skill type="close" initial="21"/>
+					<skill type="assault" initial="24"/>
+					<skill type="sniper" initial="19"/>
+					<skill type="explosive" initial="18"/>
+					<skill type="hp" initial="96"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="russia">
+			<character name="Ethan dos Santos" body="body" path="soldiers/male" head="head08" skin="0" headskin="1" teamdef="phalanx" gender="2" ucn="21" maxHp="100" hp="100" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="4">
+					<skill type="power" initial="34"/>
+					<skill type="speed" initial="22"/>
+					<skill type="accuracy" initial="27"/>
+					<skill type="mind" initial="20"/>
+					<skill type="close" initial="23"/>
+					<skill type="assault" initial="22"/>
+					<skill type="sniper" initial="15"/>
+					<skill type="explosive" initial="17"/>
+					<skill type="hp" initial="100"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="latin">
+			<character name="Manute Walker" body="body" path="soldiers/male" head="head03" skin="0" headskin="0" teamdef="phalanx" gender="2" ucn="22" maxHp="97" hp="97" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="4">
+					<skill type="power" initial="34"/>
+					<skill type="speed" initial="21"/>
+					<skill type="accuracy" initial="29"/>
+					<skill type="mind" initial="30"/>
+					<skill type="close" initial="17"/>
+					<skill type="assault" initial="22"/>
+					<skill type="sniper" initial="23"/>
+					<skill type="explosive" initial="23"/>
+					<skill type="hp" initial="97"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="africa">
+			<character name="Kyoko Saitou" body="body" path="soldiers/female" head="head17" skin="0" headskin="0" teamdef="phalanx" gender="1" ucn="23" maxHp="107" hp="107" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="4">
+					<skill type="power" initial="39"/>
+					<skill type="speed" initial="21"/>
+					<skill type="accuracy" initial="22"/>
+					<skill type="mind" initial="20"/>
+					<skill type="close" initial="16"/>
+					<skill type="assault" initial="18"/>
+					<skill type="sniper" initial="16"/>
+					<skill type="explosive" initial="22"/>
+					<skill type="hp" initial="107"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="russia">
+			<character name="Donovan Chardonais" body="body" path="soldiers/male" head="head11" skin="0" headskin="1" teamdef="phalanx" gender="2" ucn="24" maxHp="99" hp="99" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="4">
+					<skill type="power" initial="31"/>
+					<skill type="speed" initial="23"/>
+					<skill type="accuracy" initial="21"/>
+					<skill type="mind" initial="27"/>
+					<skill type="close" initial="20"/>
+					<skill type="assault" initial="20"/>
+					<skill type="sniper" initial="24"/>
+					<skill type="explosive" initial="24"/>
+					<skill type="hp" initial="99"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="middle">
+			<character name="Suhayla Al Capone" body="body" path="soldiers/female" head="head02" skin="0" headskin="0" teamdef="phalanx" gender="1" ucn="25" maxHp="92" hp="92" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="4">
+					<skill type="power" initial="31"/>
+					<skill type="speed" initial="22"/>
+					<skill type="accuracy" initial="23"/>
+					<skill type="mind" initial="28"/>
+					<skill type="close" initial="20"/>
+					<skill type="assault" initial="20"/>
+					<skill type="sniper" initial="17"/>
+					<skill type="explosive" initial="22"/>
+					<skill type="hp" initial="92"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="oceania">
+			<character name="Filipa Braun" body="body" path="soldiers/female" head="head04" skin="0" headskin="0" teamdef="phalanx" gender="1" ucn="26" maxHp="109" hp="109" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="4">
+					<skill type="power" initial="35"/>
+					<skill type="speed" initial="22"/>
+					<skill type="accuracy" initial="27"/>
+					<skill type="mind" initial="32"/>
+					<skill type="close" initial="22"/>
+					<skill type="assault" initial="22"/>
+					<skill type="sniper" initial="15"/>
+					<skill type="explosive" initial="22"/>
+					<skill type="hp" initial="109"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="russia">
+			<character name="Martin Su" body="body" path="soldiers/male" head="head01" skin="0" headskin="2" teamdef="phalanx" gender="2" ucn="27" maxHp="92" hp="92" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="4">
+					<skill type="power" initial="36"/>
+					<skill type="speed" initial="15"/>
+					<skill type="accuracy" initial="20"/>
+					<skill type="mind" initial="33"/>
+					<skill type="close" initial="16"/>
+					<skill type="assault" initial="24"/>
+					<skill type="sniper" initial="18"/>
+					<skill type="explosive" initial="22"/>
+					<skill type="hp" initial="92"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="latin">
+			<character name="Renata Beaudouin" body="body" path="soldiers/female" head="head12" skin="0" headskin="0" teamdef="phalanx" gender="1" ucn="28" maxHp="108" hp="108" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="4">
+					<skill type="power" initial="37"/>
+					<skill type="speed" initial="22"/>
+					<skill type="accuracy" initial="24"/>
+					<skill type="mind" initial="33"/>
+					<skill type="close" initial="20"/>
+					<skill type="assault" initial="23"/>
+					<skill type="sniper" initial="20"/>
+					<skill type="explosive" initial="24"/>
+					<skill type="hp" initial="108"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="africa">
+			<character name="Barbara Beard" body="body" path="soldiers/female" head="head17" skin="0" headskin="0" teamdef="phalanx" gender="1" ucn="29" maxHp="91" hp="91" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="4">
+					<skill type="power" initial="34"/>
+					<skill type="speed" initial="24"/>
+					<skill type="accuracy" initial="24"/>
+					<skill type="mind" initial="29"/>
+					<skill type="close" initial="24"/>
+					<skill type="assault" initial="20"/>
+					<skill type="sniper" initial="22"/>
+					<skill type="explosive" initial="19"/>
+					<skill type="hp" initial="91"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="states">
+			<character name="Ethan Jadhav" body="body" path="soldiers/male" head="head14" skin="0" headskin="0" teamdef="phalanx" gender="2" ucn="30" maxHp="109" hp="109" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="4">
+					<skill type="power" initial="35"/>
+					<skill type="speed" initial="15"/>
+					<skill type="accuracy" initial="29"/>
+					<skill type="mind" initial="26"/>
+					<skill type="close" initial="15"/>
+					<skill type="assault" initial="18"/>
+					<skill type="sniper" initial="15"/>
+					<skill type="explosive" initial="22"/>
+					<skill type="hp" initial="109"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="russia">
+			<character name="Claudio Kuzmin" body="body" path="soldiers/male" head="head13" skin="0" headskin="1" teamdef="phalanx" gender="2" ucn="31" maxHp="100" hp="100" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="4">
+					<skill type="power" initial="39"/>
+					<skill type="speed" initial="15"/>
+					<skill type="accuracy" initial="24"/>
+					<skill type="mind" initial="29"/>
+					<skill type="close" initial="17"/>
+					<skill type="assault" initial="15"/>
+					<skill type="sniper" initial="23"/>
+					<skill type="explosive" initial="19"/>
+					<skill type="hp" initial="100"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+	</employees>
+	<employees type="scientist">
+		<employee baseHired="0" nation="middle">
+			<character name="Naa'il Solomon" body="scientist01" path="civilians/male" head="sci_head01" skin="0" headskin="0" teamdef="phalanx_scientist" gender="2" ucn="32" maxHp="25" hp="25" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="0">
+					<skill type="power" initial="16"/>
+					<skill type="speed" initial="5"/>
+					<skill type="accuracy" initial="14"/>
+					<skill type="mind" initial="13"/>
+					<skill type="close" initial="6"/>
+					<skill type="assault" initial="8"/>
+					<skill type="sniper" initial="8"/>
+					<skill type="explosive" initial="8"/>
+					<skill type="hp" initial="25"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee baseHired="0" nation="states">
+			<character name="Saurav Mustra" body="scientist01" path="civilians/male" head="sci_head02a" skin="0" headskin="0" teamdef="phalanx_scientist" gender="2" ucn="33" maxHp="25" hp="25" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="0">
+					<skill type="power" initial="17"/>
+					<skill type="speed" initial="8"/>
+					<skill type="accuracy" initial="11"/>
+					<skill type="mind" initial="14"/>
+					<skill type="close" initial="8"/>
+					<skill type="assault" initial="6"/>
+					<skill type="sniper" initial="6"/>
+					<skill type="explosive" initial="5"/>
+					<skill type="hp" initial="25"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee baseHired="0" nation="oceania">
+			<character name="Hiroshi Baldwin" body="scientist01" path="civilians/male" head="sci_head03b" skin="0" headskin="0" teamdef="phalanx_scientist" gender="2" ucn="34" maxHp="26" hp="26" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="0">
+					<skill type="power" initial="15"/>
+					<skill type="speed" initial="9"/>
+					<skill type="accuracy" initial="10"/>
+					<skill type="mind" initial="13"/>
+					<skill type="close" initial="6"/>
+					<skill type="assault" initial="9"/>
+					<skill type="sniper" initial="9"/>
+					<skill type="explosive" initial="8"/>
+					<skill type="hp" initial="26"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee baseHired="0" nation="states">
+			<character name="Max Herring" body="scientist01" path="civilians/male" head="sci_head03b" skin="0" headskin="0" teamdef="phalanx_scientist" gender="2" ucn="35" maxHp="28" hp="28" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="0">
+					<skill type="power" initial="16"/>
+					<skill type="speed" initial="7"/>
+					<skill type="accuracy" initial="14"/>
+					<skill type="mind" initial="11"/>
+					<skill type="close" initial="9"/>
+					<skill type="assault" initial="7"/>
+					<skill type="sniper" initial="7"/>
+					<skill type="explosive" initial="7"/>
+					<skill type="hp" initial="28"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee baseHired="0" nation="middle">
+			<character name="Filipa Kaul" body="scientist01" path="civilians/female" head="head04a2" skin="0" headskin="0" teamdef="phalanx_scientist" gender="1" ucn="36" maxHp="25" hp="25" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="0">
+					<skill type="power" initial="19"/>
+					<skill type="speed" initial="7"/>
+					<skill type="accuracy" initial="14"/>
+					<skill type="mind" initial="12"/>
+					<skill type="close" initial="8"/>
+					<skill type="assault" initial="9"/>
+					<skill type="sniper" initial="7"/>
+					<skill type="explosive" initial="5"/>
+					<skill type="hp" initial="25"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee baseHired="0" nation="russia">
+			<character name="Javier Herrmann" body="scientist01" path="civilians/male" head="sci_head01" skin="0" headskin="0" teamdef="phalanx_scientist" gender="2" ucn="37" maxHp="25" hp="25" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="0">
+					<skill type="power" initial="17"/>
+					<skill type="speed" initial="7"/>
+					<skill type="accuracy" initial="12"/>
+					<skill type="mind" initial="10"/>
+					<skill type="close" initial="5"/>
+					<skill type="assault" initial="8"/>
+					<skill type="sniper" initial="9"/>
+					<skill type="explosive" initial="7"/>
+					<skill type="hp" initial="25"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee baseHired="0" nation="latin">
+			<character name="Alif Hendriks" body="scientist01" path="civilians/male" head="sci_head03b" skin="0" headskin="0" teamdef="phalanx_scientist" gender="2" ucn="38" maxHp="23" hp="23" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="0">
+					<skill type="power" initial="15"/>
+					<skill type="speed" initial="5"/>
+					<skill type="accuracy" initial="13"/>
+					<skill type="mind" initial="10"/>
+					<skill type="close" initial="5"/>
+					<skill type="assault" initial="7"/>
+					<skill type="sniper" initial="8"/>
+					<skill type="explosive" initial="9"/>
+					<skill type="hp" initial="23"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee baseHired="0" nation="latin">
+			<character name="Marco Ahmadi" body="scientist01" path="civilians/male" head="sci_head01" skin="0" headskin="0" teamdef="phalanx_scientist" gender="2" ucn="39" maxHp="26" hp="26" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="0">
+					<skill type="power" initial="16"/>
+					<skill type="speed" initial="7"/>
+					<skill type="accuracy" initial="13"/>
+					<skill type="mind" initial="13"/>
+					<skill type="close" initial="5"/>
+					<skill type="assault" initial="8"/>
+					<skill type="sniper" initial="7"/>
+					<skill type="explosive" initial="5"/>
+					<skill type="hp" initial="26"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee baseHired="0" nation="oceania">
+			<character name="Mahmoud Solomon" body="scientist01" path="civilians/male" head="sci_head01" skin="0" headskin="0" teamdef="phalanx_scientist" gender="2" ucn="40" maxHp="28" hp="28" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="0">
+					<skill type="power" initial="18"/>
+					<skill type="speed" initial="7"/>
+					<skill type="accuracy" initial="11"/>
+					<skill type="mind" initial="12"/>
+					<skill type="close" initial="9"/>
+					<skill type="assault" initial="8"/>
+					<skill type="sniper" initial="6"/>
+					<skill type="explosive" initial="6"/>
+					<skill type="hp" initial="28"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee baseHired="0" nation="africa">
+			<character name="David Mubarak" body="scientist01" path="civilians/male" head="sci_head02a" skin="0" headskin="0" teamdef="phalanx_scientist" gender="2" ucn="41" maxHp="26" hp="26" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="0">
+					<skill type="power" initial="19"/>
+					<skill type="speed" initial="7"/>
+					<skill type="accuracy" initial="10"/>
+					<skill type="mind" initial="10"/>
+					<skill type="close" initial="9"/>
+					<skill type="assault" initial="7"/>
+					<skill type="sniper" initial="7"/>
+					<skill type="explosive" initial="9"/>
+					<skill type="hp" initial="26"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="latin">
+			<character name="Hans van Aars" body="scientist01" path="civilians/male" head="sci_head01" skin="0" headskin="0" teamdef="phalanx_scientist" gender="2" ucn="42" maxHp="27" hp="27" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="0">
+					<skill type="power" initial="17"/>
+					<skill type="speed" initial="8"/>
+					<skill type="accuracy" initial="12"/>
+					<skill type="mind" initial="13"/>
+					<skill type="close" initial="9"/>
+					<skill type="assault" initial="8"/>
+					<skill type="sniper" initial="9"/>
+					<skill type="explosive" initial="9"/>
+					<skill type="hp" initial="27"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="latin">
+			<character name="Roel Moreira" body="scientist01" path="civilians/male" head="sci_head03a" skin="0" headskin="0" teamdef="phalanx_scientist" gender="2" ucn="43" maxHp="27" hp="27" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="0">
+					<skill type="power" initial="19"/>
+					<skill type="speed" initial="9"/>
+					<skill type="accuracy" initial="12"/>
+					<skill type="mind" initial="14"/>
+					<skill type="close" initial="9"/>
+					<skill type="assault" initial="9"/>
+					<skill type="sniper" initial="7"/>
+					<skill type="explosive" initial="5"/>
+					<skill type="hp" initial="27"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="europe">
+			<character name="Claudia Berg" body="scientist01" path="civilians/female" head="head05a" skin="0" headskin="0" teamdef="phalanx_scientist" gender="1" ucn="44" maxHp="26" hp="26" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="0">
+					<skill type="power" initial="19"/>
+					<skill type="speed" initial="7"/>
+					<skill type="accuracy" initial="14"/>
+					<skill type="mind" initial="13"/>
+					<skill type="close" initial="8"/>
+					<skill type="assault" initial="6"/>
+					<skill type="sniper" initial="7"/>
+					<skill type="explosive" initial="8"/>
+					<skill type="hp" initial="26"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="russia">
+			<character name="Kaiden Schwartz" body="scientist01" path="civilians/male" head="sci_head03b" skin="0" headskin="0" teamdef="phalanx_scientist" gender="2" ucn="45" maxHp="21" hp="21" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="0">
+					<skill type="power" initial="19"/>
+					<skill type="speed" initial="9"/>
+					<skill type="accuracy" initial="12"/>
+					<skill type="mind" initial="14"/>
+					<skill type="close" initial="6"/>
+					<skill type="assault" initial="5"/>
+					<skill type="sniper" initial="9"/>
+					<skill type="explosive" initial="5"/>
+					<skill type="hp" initial="21"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="states">
+			<character name="Yves Sivertsen" body="scientist01" path="civilians/male" head="sci_head02a" skin="0" headskin="0" teamdef="phalanx_scientist" gender="2" ucn="46" maxHp="22" hp="22" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="0">
+					<skill type="power" initial="16"/>
+					<skill type="speed" initial="6"/>
+					<skill type="accuracy" initial="12"/>
+					<skill type="mind" initial="10"/>
+					<skill type="close" initial="9"/>
+					<skill type="assault" initial="6"/>
+					<skill type="sniper" initial="8"/>
+					<skill type="explosive" initial="5"/>
+					<skill type="hp" initial="22"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="asia">
+			<character name="Yvonne Guedes" body="scientist01" path="civilians/female" head="head05a" skin="0" headskin="0" teamdef="phalanx_scientist" gender="1" ucn="47" maxHp="25" hp="25" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="0">
+					<skill type="power" initial="19"/>
+					<skill type="speed" initial="9"/>
+					<skill type="accuracy" initial="12"/>
+					<skill type="mind" initial="10"/>
+					<skill type="close" initial="5"/>
+					<skill type="assault" initial="9"/>
+					<skill type="sniper" initial="5"/>
+					<skill type="explosive" initial="9"/>
+					<skill type="hp" initial="25"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="europe">
+			<character name="Vasco Herrmann" body="scientist01" path="civilians/male" head="sci_head02a" skin="0" headskin="0" teamdef="phalanx_scientist" gender="2" ucn="48" maxHp="28" hp="28" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="0">
+					<skill type="power" initial="20"/>
+					<skill type="speed" initial="9"/>
+					<skill type="accuracy" initial="14"/>
+					<skill type="mind" initial="10"/>
+					<skill type="close" initial="5"/>
+					<skill type="assault" initial="6"/>
+					<skill type="sniper" initial="7"/>
+					<skill type="explosive" initial="7"/>
+					<skill type="hp" initial="28"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="africa">
+			<character name="Vitor Agharia" body="scientist01" path="civilians/male" head="sci_head02b" skin="0" headskin="0" teamdef="phalanx_scientist" gender="2" ucn="49" maxHp="22" hp="22" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="0">
+					<skill type="power" initial="15"/>
+					<skill type="speed" initial="6"/>
+					<skill type="accuracy" initial="10"/>
+					<skill type="mind" initial="14"/>
+					<skill type="close" initial="8"/>
+					<skill type="assault" initial="9"/>
+					<skill type="sniper" initial="6"/>
+					<skill type="explosive" initial="9"/>
+					<skill type="hp" initial="22"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="oceania">
+			<character name="Phillip Su" body="scientist01" path="civilians/male" head="sci_head01" skin="0" headskin="0" teamdef="phalanx_scientist" gender="2" ucn="50" maxHp="22" hp="22" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="0">
+					<skill type="power" initial="19"/>
+					<skill type="speed" initial="8"/>
+					<skill type="accuracy" initial="10"/>
+					<skill type="mind" initial="11"/>
+					<skill type="close" initial="5"/>
+					<skill type="assault" initial="6"/>
+					<skill type="sniper" initial="5"/>
+					<skill type="explosive" initial="8"/>
+					<skill type="hp" initial="22"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="europe">
+			<character name="Rajab Filippov" body="scientist01" path="civilians/male" head="sci_head03a" skin="0" headskin="0" teamdef="phalanx_scientist" gender="2" ucn="51" maxHp="26" hp="26" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="0">
+					<skill type="power" initial="18"/>
+					<skill type="speed" initial="6"/>
+					<skill type="accuracy" initial="10"/>
+					<skill type="mind" initial="13"/>
+					<skill type="close" initial="6"/>
+					<skill type="assault" initial="6"/>
+					<skill type="sniper" initial="8"/>
+					<skill type="explosive" initial="9"/>
+					<skill type="hp" initial="26"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+	</employees>
+	<employees type="worker">
+		<employee baseHired="0" nation="europe">
+			<character name="Paulo Hardy" body="worker01" path="civilians/male" head="worker01_head" skin="0" headskin="0" teamdef="phalanx_worker" gender="2" ucn="52" maxHp="21" hp="21" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="3">
+					<skill type="power" initial="16"/>
+					<skill type="speed" initial="5"/>
+					<skill type="accuracy" initial="11"/>
+					<skill type="mind" initial="10"/>
+					<skill type="close" initial="7"/>
+					<skill type="assault" initial="9"/>
+					<skill type="sniper" initial="8"/>
+					<skill type="explosive" initial="5"/>
+					<skill type="hp" initial="21"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee baseHired="0" nation="middle">
+			<character name="Jassir Jaitley" body="worker01" path="civilians/male" head="worker02_head" skin="1" headskin="1" teamdef="phalanx_worker" gender="2" ucn="53" maxHp="22" hp="22" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="3">
+					<skill type="power" initial="19"/>
+					<skill type="speed" initial="9"/>
+					<skill type="accuracy" initial="14"/>
+					<skill type="mind" initial="13"/>
+					<skill type="close" initial="9"/>
+					<skill type="assault" initial="9"/>
+					<skill type="sniper" initial="7"/>
+					<skill type="explosive" initial="6"/>
+					<skill type="hp" initial="22"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee baseHired="0" nation="oceania">
+			<character name="Alif Al Capone" body="worker01" path="civilians/male" head="worker01_head" skin="1" headskin="1" teamdef="phalanx_worker" gender="2" ucn="54" maxHp="20" hp="20" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="3">
+					<skill type="power" initial="16"/>
+					<skill type="speed" initial="8"/>
+					<skill type="accuracy" initial="12"/>
+					<skill type="mind" initial="11"/>
+					<skill type="close" initial="9"/>
+					<skill type="assault" initial="9"/>
+					<skill type="sniper" initial="5"/>
+					<skill type="explosive" initial="6"/>
+					<skill type="hp" initial="20"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee baseHired="0" nation="latin">
+			<character name="Martin Bradford" body="worker01" path="civilians/male" head="worker02_head" skin="1" headskin="1" teamdef="phalanx_worker" gender="2" ucn="55" maxHp="29" hp="29" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="3">
+					<skill type="power" initial="18"/>
+					<skill type="speed" initial="9"/>
+					<skill type="accuracy" initial="14"/>
+					<skill type="mind" initial="14"/>
+					<skill type="close" initial="9"/>
+					<skill type="assault" initial="9"/>
+					<skill type="sniper" initial="5"/>
+					<skill type="explosive" initial="9"/>
+					<skill type="hp" initial="29"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee baseHired="0" nation="middle">
+			<character name="Claudio Takagi" body="worker01" path="civilians/male" head="worker02_head" skin="0" headskin="0" teamdef="phalanx_worker" gender="2" ucn="56" maxHp="22" hp="22" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="3">
+					<skill type="power" initial="19"/>
+					<skill type="speed" initial="6"/>
+					<skill type="accuracy" initial="10"/>
+					<skill type="mind" initial="11"/>
+					<skill type="close" initial="5"/>
+					<skill type="assault" initial="5"/>
+					<skill type="sniper" initial="5"/>
+					<skill type="explosive" initial="8"/>
+					<skill type="hp" initial="22"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee baseHired="0" nation="oceania">
+			<character name="Claudio Su" body="worker01" path="civilians/male" head="worker02_head" skin="0" headskin="0" teamdef="phalanx_worker" gender="2" ucn="57" maxHp="25" hp="25" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="3">
+					<skill type="power" initial="17"/>
+					<skill type="speed" initial="8"/>
+					<skill type="accuracy" initial="13"/>
+					<skill type="mind" initial="12"/>
+					<skill type="close" initial="9"/>
+					<skill type="assault" initial="5"/>
+					<skill type="sniper" initial="9"/>
+					<skill type="explosive" initial="5"/>
+					<skill type="hp" initial="25"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee baseHired="0" nation="asia">
+			<character name="Atamveer Yu" body="worker01" path="civilians/male" head="worker02_head" skin="1" headskin="1" teamdef="phalanx_worker" gender="2" ucn="58" maxHp="26" hp="26" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="3">
+					<skill type="power" initial="15"/>
+					<skill type="speed" initial="8"/>
+					<skill type="accuracy" initial="13"/>
+					<skill type="mind" initial="14"/>
+					<skill type="close" initial="6"/>
+					<skill type="assault" initial="7"/>
+					<skill type="sniper" initial="7"/>
+					<skill type="explosive" initial="7"/>
+					<skill type="hp" initial="26"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee baseHired="0" nation="states">
+			<character name="Saurav Sakamoto" body="worker01" path="civilians/male" head="worker02_head" skin="0" headskin="0" teamdef="phalanx_worker" gender="2" ucn="59" maxHp="21" hp="21" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="3">
+					<skill type="power" initial="17"/>
+					<skill type="speed" initial="5"/>
+					<skill type="accuracy" initial="12"/>
+					<skill type="mind" initial="13"/>
+					<skill type="close" initial="7"/>
+					<skill type="assault" initial="5"/>
+					<skill type="sniper" initial="5"/>
+					<skill type="explosive" initial="9"/>
+					<skill type="hp" initial="21"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee baseHired="0" nation="africa">
+			<character name="Goncalo Huong" body="worker01" path="civilians/male" head="worker01_head" skin="0" headskin="0" teamdef="phalanx_worker" gender="2" ucn="60" maxHp="25" hp="25" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="3">
+					<skill type="power" initial="18"/>
+					<skill type="speed" initial="6"/>
+					<skill type="accuracy" initial="10"/>
+					<skill type="mind" initial="10"/>
+					<skill type="close" initial="7"/>
+					<skill type="assault" initial="6"/>
+					<skill type="sniper" initial="5"/>
+					<skill type="explosive" initial="6"/>
+					<skill type="hp" initial="25"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee baseHired="0" nation="asia">
+			<character name="Shawn Mubarak" body="worker01" path="civilians/male" head="worker01_head" skin="1" headskin="1" teamdef="phalanx_worker" gender="2" ucn="61" maxHp="28" hp="28" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="3">
+					<skill type="power" initial="18"/>
+					<skill type="speed" initial="7"/>
+					<skill type="accuracy" initial="14"/>
+					<skill type="mind" initial="13"/>
+					<skill type="close" initial="5"/>
+					<skill type="assault" initial="6"/>
+					<skill type="sniper" initial="6"/>
+					<skill type="explosive" initial="7"/>
+					<skill type="hp" initial="28"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="states">
+			<character name="Mika Santos" body="worker01" path="civilians/male" head="worker01_head" skin="1" headskin="1" teamdef="phalanx_worker" gender="2" ucn="62" maxHp="26" hp="26" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="3">
+					<skill type="power" initial="19"/>
+					<skill type="speed" initial="5"/>
+					<skill type="accuracy" initial="12"/>
+					<skill type="mind" initial="10"/>
+					<skill type="close" initial="5"/>
+					<skill type="assault" initial="7"/>
+					<skill type="sniper" initial="7"/>
+					<skill type="explosive" initial="8"/>
+					<skill type="hp" initial="26"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="states">
+			<character name="Henri Koster" body="worker01" path="civilians/male" head="worker02_head" skin="1" headskin="1" teamdef="phalanx_worker" gender="2" ucn="63" maxHp="23" hp="23" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="3">
+					<skill type="power" initial="16"/>
+					<skill type="speed" initial="6"/>
+					<skill type="accuracy" initial="10"/>
+					<skill type="mind" initial="14"/>
+					<skill type="close" initial="8"/>
+					<skill type="assault" initial="6"/>
+					<skill type="sniper" initial="8"/>
+					<skill type="explosive" initial="9"/>
+					<skill type="hp" initial="23"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="oceania">
+			<character name="Ali Zahar" body="worker01" path="civilians/male" head="worker02_head" skin="0" headskin="0" teamdef="phalanx_worker" gender="2" ucn="64" maxHp="29" hp="29" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="3">
+					<skill type="power" initial="17"/>
+					<skill type="speed" initial="9"/>
+					<skill type="accuracy" initial="12"/>
+					<skill type="mind" initial="11"/>
+					<skill type="close" initial="8"/>
+					<skill type="assault" initial="7"/>
+					<skill type="sniper" initial="7"/>
+					<skill type="explosive" initial="7"/>
+					<skill type="hp" initial="29"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="states">
+			<character name="Christophe Prabhu" body="worker01" path="civilians/male" head="worker01_head" skin="0" headskin="0" teamdef="phalanx_worker" gender="2" ucn="65" maxHp="25" hp="25" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="3">
+					<skill type="power" initial="15"/>
+					<skill type="speed" initial="8"/>
+					<skill type="accuracy" initial="11"/>
+					<skill type="mind" initial="10"/>
+					<skill type="close" initial="9"/>
+					<skill type="assault" initial="9"/>
+					<skill type="sniper" initial="5"/>
+					<skill type="explosive" initial="6"/>
+					<skill type="hp" initial="25"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="middle">
+			<character name="Dobi Castro" body="worker01" path="civilians/male" head="worker01_head" skin="1" headskin="1" teamdef="phalanx_worker" gender="2" ucn="66" maxHp="27" hp="27" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="3">
+					<skill type="power" initial="15"/>
+					<skill type="speed" initial="5"/>
+					<skill type="accuracy" initial="10"/>
+					<skill type="mind" initial="12"/>
+					<skill type="close" initial="5"/>
+					<skill type="assault" initial="5"/>
+					<skill type="sniper" initial="5"/>
+					<skill type="explosive" initial="8"/>
+					<skill type="hp" initial="27"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="asia">
+			<character name="Calvin Dunlap" body="worker01" path="civilians/male" head="worker01_head" skin="0" headskin="0" teamdef="phalanx_worker" gender="2" ucn="67" maxHp="28" hp="28" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="3">
+					<skill type="power" initial="15"/>
+					<skill type="speed" initial="6"/>
+					<skill type="accuracy" initial="10"/>
+					<skill type="mind" initial="11"/>
+					<skill type="close" initial="5"/>
+					<skill type="assault" initial="6"/>
+					<skill type="sniper" initial="8"/>
+					<skill type="explosive" initial="6"/>
+					<skill type="hp" initial="28"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="states">
+			<character name="David Tyson" body="worker01" path="civilians/male" head="worker01_head" skin="1" headskin="1" teamdef="phalanx_worker" gender="2" ucn="68" maxHp="29" hp="29" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="3">
+					<skill type="power" initial="15"/>
+					<skill type="speed" initial="7"/>
+					<skill type="accuracy" initial="11"/>
+					<skill type="mind" initial="14"/>
+					<skill type="close" initial="7"/>
+					<skill type="assault" initial="5"/>
+					<skill type="sniper" initial="6"/>
+					<skill type="explosive" initial="8"/>
+					<skill type="hp" initial="29"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="states">
+			<character name="Bas Macias" body="worker01" path="civilians/male" head="worker02_head" skin="0" headskin="0" teamdef="phalanx_worker" gender="2" ucn="69" maxHp="25" hp="25" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="3">
+					<skill type="power" initial="19"/>
+					<skill type="speed" initial="5"/>
+					<skill type="accuracy" initial="11"/>
+					<skill type="mind" initial="11"/>
+					<skill type="close" initial="6"/>
+					<skill type="assault" initial="6"/>
+					<skill type="sniper" initial="5"/>
+					<skill type="explosive" initial="8"/>
+					<skill type="hp" initial="25"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="asia">
+			<character name="Jarno Boe" body="worker01" path="civilians/male" head="worker02_head" skin="1" headskin="1" teamdef="phalanx_worker" gender="2" ucn="70" maxHp="20" hp="20" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="3">
+					<skill type="power" initial="16"/>
+					<skill type="speed" initial="6"/>
+					<skill type="accuracy" initial="10"/>
+					<skill type="mind" initial="14"/>
+					<skill type="close" initial="6"/>
+					<skill type="assault" initial="5"/>
+					<skill type="sniper" initial="6"/>
+					<skill type="explosive" initial="9"/>
+					<skill type="hp" initial="20"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="russia">
+			<character name="Vitaliy Adedayo" body="worker01" path="civilians/male" head="worker01_head" skin="1" headskin="1" teamdef="phalanx_worker" gender="2" ucn="71" maxHp="22" hp="22" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="3">
+					<skill type="power" initial="15"/>
+					<skill type="speed" initial="7"/>
+					<skill type="accuracy" initial="14"/>
+					<skill type="mind" initial="14"/>
+					<skill type="close" initial="9"/>
+					<skill type="assault" initial="9"/>
+					<skill type="sniper" initial="7"/>
+					<skill type="explosive" initial="6"/>
+					<skill type="hp" initial="22"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+	</employees>
+	<employees type="pilot">
+		<employee baseHired="0" nation="africa">
+			<character name="Guillaume Schultze" body="body" path="pilots/male" head="head01" skin="0" headskin="0" teamdef="phalanx_pilot" gender="2" ucn="72" maxHp="47" hp="47" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="1">
+					<skill type="piloting" initial="15"/>
+					<skill type="targeting" initial="12"/>
+					<skill type="evading" initial="10"/>
+					<skill type="hp" initial="47"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee baseHired="0" nation="latin">
+			<character name="Lars Agharia" body="body" path="pilots/male" head="head01" skin="0" headskin="0" teamdef="phalanx_pilot" gender="2" ucn="73" maxHp="41" hp="41" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="1">
+					<skill type="piloting" initial="10"/>
+					<skill type="targeting" initial="10"/>
+					<skill type="evading" initial="11"/>
+					<skill type="hp" initial="41"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="asia">
+			<character name="Eric Buckner" body="body" path="pilots/male" head="head01" skin="0" headskin="0" teamdef="phalanx_pilot" gender="2" ucn="74" maxHp="49" hp="49" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="1">
+					<skill type="piloting" initial="12"/>
+					<skill type="targeting" initial="11"/>
+					<skill type="evading" initial="10"/>
+					<skill type="hp" initial="49"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="middle">
+			<character name="Dobi Cardoso" body="body" path="pilots/male" head="head01" skin="0" headskin="0" teamdef="phalanx_pilot" gender="2" ucn="75" maxHp="47" hp="47" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="1">
+					<skill type="piloting" initial="15"/>
+					<skill type="targeting" initial="11"/>
+					<skill type="evading" initial="13"/>
+					<skill type="hp" initial="47"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="oceania">
+			<character name="Vitaliy Pontes" body="body" path="pilots/male" head="head01" skin="0" headskin="0" teamdef="phalanx_pilot" gender="2" ucn="76" maxHp="42" hp="42" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="1">
+					<skill type="piloting" initial="11"/>
+					<skill type="targeting" initial="15"/>
+					<skill type="evading" initial="13"/>
+					<skill type="hp" initial="42"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="latin">
+			<character name="Emeralde Hardy" body="body" path="pilots/male" head="head01" skin="0" headskin="0" teamdef="phalanx_pilot" gender="2" ucn="77" maxHp="47" hp="47" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="1">
+					<skill type="piloting" initial="14"/>
+					<skill type="targeting" initial="12"/>
+					<skill type="evading" initial="13"/>
+					<skill type="hp" initial="47"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="states">
+			<character name="Benoit Henriksen" body="body" path="pilots/male" head="head01" skin="0" headskin="0" teamdef="phalanx_pilot" gender="2" ucn="78" maxHp="46" hp="46" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="1">
+					<skill type="piloting" initial="10"/>
+					<skill type="targeting" initial="14"/>
+					<skill type="evading" initial="13"/>
+					<skill type="hp" initial="46"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="asia">
+			<character name="Christophe Kirk" body="body" path="pilots/male" head="head01" skin="0" headskin="0" teamdef="phalanx_pilot" gender="2" ucn="79" maxHp="42" hp="42" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="1">
+					<skill type="piloting" initial="14"/>
+					<skill type="targeting" initial="14"/>
+					<skill type="evading" initial="13"/>
+					<skill type="hp" initial="42"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="oceania">
+			<character name="Calvin Santos" body="body" path="pilots/male" head="head01" skin="0" headskin="0" teamdef="phalanx_pilot" gender="2" ucn="80" maxHp="48" hp="48" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="1">
+					<skill type="piloting" initial="11"/>
+					<skill type="targeting" initial="10"/>
+					<skill type="evading" initial="13"/>
+					<skill type="hp" initial="48"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="russia">
+			<character name="Thomas Lien" body="body" path="pilots/male" head="head01" skin="0" headskin="0" teamdef="phalanx_pilot" gender="2" ucn="81" maxHp="47" hp="47" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="1">
+					<skill type="piloting" initial="15"/>
+					<skill type="targeting" initial="14"/>
+					<skill type="evading" initial="12"/>
+					<skill type="hp" initial="47"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="latin">
+			<character name="Akalpreet Kloot" body="body" path="pilots/male" head="head01" skin="0" headskin="0" teamdef="phalanx_pilot" gender="2" ucn="82" maxHp="49" hp="49" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="1">
+					<skill type="piloting" initial="14"/>
+					<skill type="targeting" initial="14"/>
+					<skill type="evading" initial="10"/>
+					<skill type="hp" initial="49"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+		<employee nation="middle">
+			<character name="Talon D'Aubigne" body="body" path="pilots/male" head="head01" skin="0" headskin="0" teamdef="phalanx_pilot" gender="2" ucn="83" maxHp="46" hp="46" stun="0" morale="100" fieldSize="1" state="768">
+				<implants/>
+				<injuries/>
+				<scores rank="1">
+					<skill type="piloting" initial="12"/>
+					<skill type="targeting" initial="10"/>
+					<skill type="evading" initial="12"/>
+					<skill type="hp" initial="46"/>
+				</scores>
+				<inventory/>
+			</character>
+		</employee>
+	</employees>
+	<employees type="robot"/>
+	<aircraft>
+		<craft idx="0" id="craft_drop_firebird" name="Firebird D" status="refuel" fuel="246857" damage="200" point="0" time="0" homebase="0" pilotUCN="72">
+			<pos x="-19.419102" y="17.328453" z="0.000000"/>
+			<direction x="1.000000" y="0.000000" z="0.000000"/>
+			<weapons>
+				<slot ammoLeft="-1"/>
+			</weapons>
+			<shields>
+				<slot/>
+			</shields>
+			<electronics>
+				<slot/>
+				<slot/>
+			</electronics>
+			<route/>
+			<airstats>
+				<stat id="speed" val="7"/>
+				<stat id="maxspeed" val="10"/>
+				<stat id="ecm" val="70"/>
+				<stat id="damage" val="200"/>
+				<stat id="accuracy" val="100"/>
+				<stat id="fuelsize" val="246857"/>
+			</airstats>
+			<aircraftTeam>
+				<member ucn="0"/>
+				<member ucn="1"/>
+				<member ucn="2"/>
+				<member ucn="3"/>
+				<member ucn="4"/>
+				<member ucn="5"/>
+				<member ucn="6"/>
+				<member ucn="7"/>
+			</aircraftTeam>
+			<cargo/>
+		</craft>
+		<craft idx="1" id="craft_inter_stiletto" name="Stiletto I" status="refuel" fuel="64000" damage="150" point="0" time="0" homebase="0" pilotUCN="73">
+			<pos x="-19.419102" y="17.328453" z="0.000000"/>
+			<direction x="1.000000" y="0.000000" z="0.000000"/>
+			<weapons>
+				<slot itemid="craft_weapon_shiva" ammoLeft="100" ammoid="craft_ammo_shiva_API" delayNextShot="20"/>
+				<slot itemid="craft_weapon_sparrowhawk" ammoLeft="7" ammoid="craft_ammo_sparrowhawk" delayNextShot="500"/>
+				<slot itemid="craft_weapon_sparrowhawk" ammoLeft="7" ammoid="craft_ammo_sparrowhawk" delayNextShot="500"/>
+			</weapons>
+			<shields>
+				<slot/>
+			</shields>
+			<electronics>
+				<slot/>
+				<slot/>
+			</electronics>
+			<route/>
+			<airstats>
+				<stat id="speed" val="9"/>
+				<stat id="maxspeed" val="14"/>
+				<stat id="ecm" val="100"/>
+				<stat id="damage" val="150"/>
+				<stat id="accuracy" val="100"/>
+				<stat id="fuelsize" val="64000"/>
+				<stat id="weaponrange" val="3000"/>
+			</airstats>
+			<aircraftTeam/>
+			<cargo/>
+		</craft>
+	</aircraft>
+	<UFOs/>
+	<projectiles/>
+	<alienBases/>
+	<interests lastMissionSpawnedDelay="9" overall="20">
+		<interest id="none" value="0"/>
+		<interest id="recon" value="20"/>
+		<interest id="terror" value="0"/>
+		<interest id="baseAttack" value="0"/>
+		<interest id="building" value="0"/>
+		<interest id="subvertgov" value="0"/>
+		<interest id="supply" value="0"/>
+		<interest id="XVI" value="0"/>
+		<interest id="intercept" value="0"/>
+		<interest id="interceptbombing" value="0"/>
+		<interest id="harvest" value="0"/>
+		<interest id="alienBase" value="0"/>
+		<interest id="ufoCarrier" value="0"/>
+		<interest id="rescue" value="0"/>
+	</interests>
+	<installations/>
+	<missions>
+		<mission IDX="1" id="cat1_interest20_0" active="false" posAssigned="false" crashed="false" onWin="" onLose="" category="recon" stage="notActive" initialOverallInterest="20" initialIndividualInterest="20">
+			<startDate day="760739" sec="25025"/>
+			<finalDate day="760739" sec="25025"/>
+			<pos x="0.000000" y="0.000000"/>
+		</mission>
+	</missions>
+	<storedUFOs/>
+	<production>
+		<queue IDX="0"/>
+	</production>
+	<messages>
+		<message type="event" text="You've got a new mail: Good Luck" eventMailid="prolog" eventMailRead="true">
+			<date day="760739" sec="21600"/>
+		</message>
+		<message type="rsproposal" title="Unknown Technology researchable" text="New research proposal: Continuous Wave Laser Operation " pediaid="rs_laser">
+			<date day="760739" sec="21600"/>
+		</message>
+		<message type="rsproposal" title="Unknown Technology researchable" text="New research proposal: Alien Origins " pediaid="rs_alien_origins">
+			<date day="760739" sec="21600"/>
+		</message>
+		<message type="rsproposal" title="Unknown Technology researchable" text="New research proposal: Amphetamine Implant " pediaid="rs_implant_amphetamine">
+			<date day="760739" sec="21600"/>
+		</message>
+		<message type="rsproposal" title="Unknown Technology researchable" text="New research proposal: Muscle Stimulant " pediaid="rs_implant_muscular">
+			<date day="760739" sec="21600"/>
+		</message>
+		<message type="construction" title="Base built" text="A new base has been built: Home (nation: New Africa)">
+			<date day="760739" sec="21600"/>
+		</message>
+		<message type="standard" title="Notice" text="A new Firebird-class Dropship is ready in Home">
+			<date day="760739" sec="21600"/>
+		</message>
+		<message type="standard" title="Notice" text="A new Stiletto-class Interceptor is ready in Home">
+			<date day="760739" sec="21600"/>
+		</message>
+	</messages>
+	<stats missions="1" basesBuilt="1" aircraftHad="2"/>
+	<nations>
+		<nation id="latin">
+			<month IDX="0" happiness="0.500000" XVI="0"/>
+		</nation>
+		<nation id="states">
+			<month IDX="0" happiness="0.500000" XVI="0"/>
+		</nation>
+		<nation id="europe">
+			<month IDX="0" happiness="0.500000" XVI="0"/>
+		</nation>
+		<nation id="asia">
+			<month IDX="0" happiness="0.500000" XVI="0"/>
+		</nation>
+		<nation id="middle">
+			<month IDX="0" happiness="0.500000" XVI="0"/>
+		</nation>
+		<nation id="africa">
+			<month IDX="0" happiness="0.500000" XVI="0"/>
+		</nation>
+		<nation id="russia">
+			<month IDX="0" happiness="0.500000" XVI="0"/>
+		</nation>
+		<nation id="oceania">
+			<month IDX="0" happiness="0.500000" XVI="0"/>
+		</nation>
+	</nations>
+	<transfers/>
+	<XVI width="512" height="256"/>
+	<messageOptions>
+		<type name="installation_installed" notify="true" pause="true" sound="true"/>
+		<type name="installation_removed" notify="true" pause="true" sound="true"/>
+		<type name="installation_replaced" notify="true" sound="true"/>
+		<type name="aircraft_refueled" notify="true" sound="true"/>
+		<type name="aircraft_cannotrefuel" notify="true" pause="true" sound="true"/>
+		<type name="aircraft_arrivedhome" notify="true" sound="true"/>
+		<type name="installation_build_started" notify="true" sound="true"/>
+		<type name="installation_build_finished" notify="true" pause="true" sound="true"/>
+		<type name="installation_destroyed" notify="true" pause="true" sound="true"/>
+		<type name="research_new_proposed" notify="true" pause="true" sound="true"/>
+		<type name="research_halted" notify="true" pause="true" sound="true"/>
+		<type name="research_completed" notify="true" pause="true" sound="true"/>
+		<type name="production_started" notify="true"/>
+		<type name="production_finished" notify="true" pause="true" sound="true"/>
+		<type name="production_failed" notify="true"/>
+		<type name="production_queue_empty" notify="true" pause="true" sound="true"/>
+		<type name="nation_happiness_changed" notify="true"/>
+		<type name="nation_unhappy" notify="true" pause="true" sound="true"/>
+		<type name="nation_pleased" notify="true"/>
+		<type name="transfer_started" notify="true" sound="true"/>
+		<type name="transfer_completed_success" notify="true" sound="true"/>
+		<type name="transfer_lost" notify="true" pause="true" sound="true"/>
+		<type name="transfer_aliens_defered" notify="true" sound="true"/>
+		<type name="transfer_uforecovery_finished" notify="true" sound="true"/>
+		<type name="ufo_spotted" notify="true" pause="true" sound="true"/>
+		<type name="ufo_signal_lost" notify="true" sound="true"/>
+		<type name="ufo_attacking" notify="true" pause="true" sound="true"/>
+		<type name="base_attack" notify="true" pause="true" sound="true"/>
+		<type name="building_finished" notify="true" pause="true" sound="true"/>
+	</messageOptions>
+	<triggerevents/>
+</savegame>
